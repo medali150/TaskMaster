@@ -74,7 +74,7 @@ Create a `.env` file in the root directory with the following variables:
 
 ```env
 # Database
-DATABASE_URL="postgresql://postgres:dali2004@localhost:5432/taskapp"
+DATABASE_URL=
 
 # JWT Configuration
 JWT_SECRET="your-super-secret-key-change-in-production"
